@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoStager", "AutoStager\AutoStager.csproj", "{C9D5918F-66C0-44D2-9BA6-FE42878A8E75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64E7FA6D-3ECD-457D-A001-295DF29E5DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D5918F-66C0-44D2-9BA6-FE42878A8E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D5918F-66C0-44D2-9BA6-FE42878A8E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D5918F-66C0-44D2-9BA6-FE42878A8E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D5918F-66C0-44D2-9BA6-FE42878A8E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300E86DB-D31E-4CDF-9503-012C71EA122A}
+	EndGlobalSection
+EndGlobal
